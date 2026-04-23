@@ -4,7 +4,7 @@
 This project analyzes employee performance, salary, sales, and department efficiency using Excel. It includes data cleaning, calculated fields, pivot tables, and a dashboard for insights.
 
 ## Tools Used
-- Microsoft Excel
+- Microsoft Excel 
 - Data Cleaning (TRIM, PROPER, UPPER)
 - IF Function
 - VLOOKUP
